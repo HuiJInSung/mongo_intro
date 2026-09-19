@@ -108,7 +108,7 @@ const values = [
 const products = [
   {
     image: "/images/mango-1.jpg",
-    name: "自食嚐鮮 3公斤",
+    name: "自食嚐鮮 2公斤",
     tag: "熱銷首選",
     price: "NT$ 590",
     desc: "約 8 – 10 顆，自己吃最划算的入門選擇。",
